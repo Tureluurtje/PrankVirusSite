@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>File Download</title>
+</head>
+<body>
+  <h1>File Download Example</h1>
+  <button onclick="downloadFile()">Download File</button>
+</body>
+</html>
